@@ -8,7 +8,7 @@ I made this <strong>Game Dictionary Application </strong> over the Winter Break 
 
 ![SC2](https://github.com/GreenyPM/GameDictionaryWExcel/assets/81530437/ad83e8be-d2db-4d4d-bee3-ac892582831d)
 
--I'll be more casual with you if you've made it here. Thanks for reading this little read and coming to my repo. It means a lot; you can try this out by using "git clone https://github.com/GreenyPM/GameDictionaryWExcel" or by downloading it above. It comes with a pre-installed virtual environment, so start that up, and all should be good! 
+-I'll be more casual with you if you've made it here. Thanks for reading this little read and coming to my repo. It means a lot; you can try this out by using "git clone https://github.com/GreenyPM/GameDictionaryWExcel" or by downloading it above.
 
 <i>-Thanks for Reading!<br>
 Patrick 💣🍀</i>
